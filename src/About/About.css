@@ -1,0 +1,14 @@
+#about{
+    background: linear-gradient(#ea1d6f,#eb466b 100%);
+}
+#about h1{
+    font-weight: 800;
+    font-size: 50px;
+    color: #fff;
+}
+#about p{
+    color: #fff;
+}
+#about img{
+    padding: 48px;
+}
